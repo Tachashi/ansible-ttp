@@ -1,5 +1,5 @@
 # ansible-ttp
-Ansible filter plugin for template text parser (TTP)
+Ansible filter plugin for template text parser (TTP)  
 This plugin has been tested with Ansible 2.8.4.
 
 # Sample Template
